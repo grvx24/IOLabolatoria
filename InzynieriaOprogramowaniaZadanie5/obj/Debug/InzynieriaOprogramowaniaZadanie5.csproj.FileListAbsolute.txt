@@ -1,0 +1,6 @@
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\bin\Debug\InzynieriaOprogramowaniaZadanie5.exe.config
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\bin\Debug\InzynieriaOprogramowaniaZadanie5.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\bin\Debug\InzynieriaOprogramowaniaZadanie5.pdb
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\obj\Debug\InzynieriaOprogramowaniaZadanie5.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\obj\Debug\InzynieriaOprogramowaniaZadanie5.pdb
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie5\obj\Debug\InzynieriaOprogramowaniaZadanie5.csprojResolveAssemblyReference.cache
