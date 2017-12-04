@@ -1,0 +1,6 @@
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\bin\Debug\InzynieriaOprogramowaniaLab4.exe.config
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\bin\Debug\InzynieriaOprogramowaniaLab4.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\bin\Debug\InzynieriaOprogramowaniaLab4.pdb
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\obj\Debug\InzynieriaOprogramowaniaLab4.csprojResolveAssemblyReference.cache
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\obj\Debug\InzynieriaOprogramowaniaLab4.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab4\InzynieriaOprogramowaniaLab4\obj\Debug\InzynieriaOprogramowaniaLab4.pdb
