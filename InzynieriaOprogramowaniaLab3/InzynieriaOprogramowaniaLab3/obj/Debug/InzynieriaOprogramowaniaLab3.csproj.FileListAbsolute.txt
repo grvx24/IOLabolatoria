@@ -1,0 +1,6 @@
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\bin\Debug\InzynieriaOprogramowaniaLab3.exe.config
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\bin\Debug\InzynieriaOprogramowaniaLab3.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\bin\Debug\InzynieriaOprogramowaniaLab3.pdb
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\obj\Debug\InzynieriaOprogramowaniaLab3.csprojResolveAssemblyReference.cache
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\obj\Debug\InzynieriaOprogramowaniaLab3.exe
+c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab3\InzynieriaOprogramowaniaLab3\obj\Debug\InzynieriaOprogramowaniaLab3.pdb
