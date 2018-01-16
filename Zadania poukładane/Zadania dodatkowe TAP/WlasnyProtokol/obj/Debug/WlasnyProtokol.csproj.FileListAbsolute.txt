@@ -1,0 +1,7 @@
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\bin\Debug\WlasnyProtokol.exe.config
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\bin\Debug\WlasnyProtokol.exe
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\bin\Debug\WlasnyProtokol.pdb
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\obj\Debug\WlasnyProtokol.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\obj\Debug\WlasnyProtokol.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\obj\Debug\WlasnyProtokol.exe
+C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\WlasnyProtokol\obj\Debug\WlasnyProtokol.pdb
