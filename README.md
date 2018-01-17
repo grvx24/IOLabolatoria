@@ -1,1 +1,1 @@
-Wszystkie zadania są w folderze "zadania poukladane"
+Wszystkie zadania są w folderze "Wszystkie zadania", reszta plików jest niepotrzebna
