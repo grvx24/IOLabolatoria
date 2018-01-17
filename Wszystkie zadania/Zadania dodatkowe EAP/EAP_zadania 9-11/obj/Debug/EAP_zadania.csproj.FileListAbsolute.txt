@@ -1,0 +1,7 @@
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\bin\Debug\EAP_zadania.exe.config
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\bin\Debug\EAP_zadania.exe
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\bin\Debug\EAP_zadania.pdb
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\obj\Debug\EAP_zadania.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\obj\Debug\EAP_zadania.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\obj\Debug\EAP_zadania.exe
+C:\Users\Kamil Sagalara\Source\Repos\EAP_zadania\EAP_zadania\obj\Debug\EAP_zadania.pdb
