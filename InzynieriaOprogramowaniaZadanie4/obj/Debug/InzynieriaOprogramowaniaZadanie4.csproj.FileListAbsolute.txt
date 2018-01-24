@@ -1,6 +1,0 @@
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\bin\Debug\InzynieriaOprogramowaniaZadanie4.exe.config
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\bin\Debug\InzynieriaOprogramowaniaZadanie4.exe
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\bin\Debug\InzynieriaOprogramowaniaZadanie4.pdb
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\obj\Debug\InzynieriaOprogramowaniaZadanie4.exe
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\obj\Debug\InzynieriaOprogramowaniaZadanie4.pdb
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaZadanie4\obj\Debug\InzynieriaOprogramowaniaZadanie4.csprojResolveAssemblyReference.cache

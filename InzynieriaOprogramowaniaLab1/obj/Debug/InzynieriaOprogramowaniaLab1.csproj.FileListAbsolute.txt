@@ -1,6 +1,0 @@
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\obj\Debug\InzynieriaOprogramowaniaLab1.csprojResolveAssemblyReference.cache
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\bin\Debug\InzynieriaOprogramowaniaLab1.exe.config
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\bin\Debug\InzynieriaOprogramowaniaLab1.exe
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\bin\Debug\InzynieriaOprogramowaniaLab1.pdb
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\obj\Debug\InzynieriaOprogramowaniaLab1.exe
-c:\users\kamil sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab1\InzynieriaOprogramowaniaLab1\obj\Debug\InzynieriaOprogramowaniaLab1.pdb

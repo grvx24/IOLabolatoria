@@ -1,6 +1,0 @@
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\bin\Debug\Zadanie8.exe.config
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\bin\Debug\Zadanie8.exe
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\bin\Debug\Zadanie8.pdb
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\obj\Debug\Zadanie8.csprojResolveAssemblyReference.cache
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\obj\Debug\Zadanie8.exe
-C:\Users\Kamil Sagalara\documents\visual studio 2017\Projects\InzynieriaOprogramowaniaLab2\Zadanie8\obj\Debug\Zadanie8.pdb
