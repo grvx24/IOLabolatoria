@@ -1,7 +1,0 @@
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\bin\Debug\TAP_macierz_i_tablica_bajtow.exe.config
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\bin\Debug\TAP_macierz_i_tablica_bajtow.exe
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\bin\Debug\TAP_macierz_i_tablica_bajtow.pdb
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\obj\Debug\TAP_macierz_i_tablica_bajtow.csproj.CoreCompileInputs.cache
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\obj\Debug\TAP_macierz_i_tablica_bajtow.exe
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\obj\Debug\TAP_macierz_i_tablica_bajtow.pdb
-C:\Users\Kamil Sagalara\Source\Repos\Bitmapy\TAP_macierz_i_tablica_bajtow\obj\Debug\TAP_macierz_i_tablica_bajtow.csprojResolveAssemblyReference.cache
